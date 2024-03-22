@@ -145,7 +145,7 @@
 <!-- /wp:gallery -->
 
 <!-- wp:paragraph -->
-<p>So, this is all about creating a predictive model using sklearn on brain tumor dataset. Thanks for reading!</p>
+<p>So, this is all about creating a predictive model using sklearn on brain tumor dataset. Thanks for reading.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
